@@ -2,7 +2,10 @@
   MIT 18.06, Spring 2023<br />
   Linear Algebra
 </h2> 
+
 # [INTRODUCTION TO LINEAR ALGEBRA, Fourth Edition](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
+
+ 
 Welcome to MIT 18.06: Linear Algebra! The Spring 2023 course information, materials, and links are recorded below. Course materials for previous semesters are archived in the [other branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository) of this repository. You can dive in right away by reading this [introduction](https://github.com/mitmath/1806/blob/master/notes/Introduction%20to%20Linear%20Algebra%206th%20edition%20and%20A%20%3D%20CR_04.pdf) to the course by Professor Strang.
 
 NOTICE OF VIDEO RECORDING: The Spring 2023 lectures for 18.06 will be recorded for [OCW](https://ocw.mit.edu/). See the [notice of recording](https://github.com/mitmath/1806/blob/master/notes/Notice%20of%20Video%20Recording%2018_06%20S23.docx) for more information.
