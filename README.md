@@ -6,6 +6,7 @@
 # [INTRODUCTION TO LINEAR ALGEBRA, Fourth Edition](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
 # [csdiy](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/MITLA/)
 # [Linear Algebra and Its Applications, 5th](https://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf)
+# [He made linear algebra fun](https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531)
  
 Welcome to MIT 18.06: Linear Algebra! The Spring 2023 course information, materials, and links are recorded below. Course materials for previous semesters are archived in the [other branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository) of this repository. You can dive in right away by reading this [introduction](https://github.com/mitmath/1806/blob/master/notes/Introduction%20to%20Linear%20Algebra%206th%20edition%20and%20A%20%3D%20CR_04.pdf) to the course by Professor Strang.
 
