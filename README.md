@@ -3,7 +3,8 @@
   Linear Algebra
 </h2> 
 
-# [INTRODUCTION TO LINEAR ALGEBRA, Fourth Edition](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
+# [textbook: INTRODUCTION TO LINEAR ALGEBRA, Fourth Edition](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
+# [official website](https://web.mit.edu/18.06/www/)
 # [csdiy](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/MITLA/)
 # [Linear Algebra and Its Applications, 5th](https://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf)
 # [He made linear algebra fun](https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531)
