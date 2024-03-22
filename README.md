@@ -8,6 +8,7 @@
 ## https://math.mit.edu/~gs/linearalgebra/
 ## https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 ## [csdiy](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/MITLA/)
+## https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06
 ## [textbook: Linear Algebra and Its Applications, 5th](https://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf)
 
  
