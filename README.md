@@ -23,6 +23,7 @@ Studying linear algebra effectively involves both theoretical understanding and 
 5. **"Matrix Analysis and Applied Linear Algebra" by Carl D. Meyer** – This book is detailed, with a strong focus on applied aspects of linear algebra.
 
 Working through these texts, especially alongside problem-solving practice, will help you build a solid understanding of linear algebra.
+
 ---
 
 ## [textbook: INTRODUCTION TO LINEAR ALGEBRA, Fourth Edition](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
