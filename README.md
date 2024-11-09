@@ -7,6 +7,23 @@
 - [ ] 2024/11/9 9:10 - : (page 1-30/586) Chapter 1 Introduction to Vectors
 
 ---
+Studying linear algebra effectively involves both theoretical understanding and practical problem-solving. Here’s a recommended approach and some well-regarded textbooks to guide you:
+
+### Approach
+1. **Start with the basics**: Grasp fundamental concepts like vectors, matrices, and linear transformations.
+2. **Practice problems**: Linear algebra is best learned by solving problems to internalize concepts.
+3. **Visualize concepts**: Use graphing tools to see vector spaces and transformations visually.
+4. **Apply to other fields**: See how linear algebra is used in areas like physics, computer science, and data science.
+
+### Recommended Textbooks
+1. **"Linear Algebra and Its Applications" by Gilbert Strang** – This is a classic, accessible introduction to linear algebra with applications.
+2. **"Introduction to Linear Algebra" by Gilbert Strang** – A more introductory text by Strang, ideal for self-study.
+3. **"Linear Algebra Done Right" by Sheldon Axler** – This text focuses on a conceptual understanding, avoiding determinants initially.
+4. **"Linear Algebra" by Serge Lang** – A rigorous and concise book that is often used in university courses.
+5. **"Matrix Analysis and Applied Linear Algebra" by Carl D. Meyer** – This book is detailed, with a strong focus on applied aspects of linear algebra.
+
+Working through these texts, especially alongside problem-solving practice, will help you build a solid understanding of linear algebra.
+---
 
 ## [textbook: INTRODUCTION TO LINEAR ALGEBRA, Fourth Edition](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
 ## https://web.mit.edu/18.06/www/
