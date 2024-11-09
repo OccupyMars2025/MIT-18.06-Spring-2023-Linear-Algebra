@@ -3,6 +3,11 @@
   Linear Algebra
 </h2> 
 
+---
+- [ ] 2024/11/9 9:10 - : (page 1-30/586) Chapter 1 Introduction to Vectors
+
+---
+
 ## [textbook: INTRODUCTION TO LINEAR ALGEBRA, Fourth Edition](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
 ## https://web.mit.edu/18.06/www/
 ## https://math.mit.edu/~gs/linearalgebra/
